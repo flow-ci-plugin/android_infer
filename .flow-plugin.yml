@@ -1,0 +1,19 @@
+name: android_infer_plugin
+version: 0.0.1
+language: 
+description: Android anlayzer named 'Infer' from Facebook to check files.
+
+tags:
+ - android
+ - format
+ - analyzer
+ - facebook
+ - quality
+ - plugin
+ - infer
+
+public: true
+
+# clone_in_docker: false
+
+script_path: ./run.sh
