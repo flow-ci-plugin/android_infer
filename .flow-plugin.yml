@@ -1,7 +1,7 @@
 name: android_infer_plugin
 version: 0.0.1
 language: android
-description: Android anlayzer named 'Infer' from Facebook to check files.
+description: "Android 代码分析工具 Infer"
 
 tags:
  - android
